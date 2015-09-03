@@ -17,7 +17,7 @@
     - htop-osx
     - hub
     - imagemagick
-    - jq
+    # - jq
     - keybase
     - legit
     - libtiff
