@@ -33,8 +33,6 @@
     - vim
     - vim
     - watch
-    - wine
-    - winetricks
     - xmlstarlet
     - zsh
     cask_packages:
