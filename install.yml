@@ -5,6 +5,7 @@
   - role: osxc.packages
     brew_taps:
     - caskroom/fonts
+    - caskroom/cask
     brew_packages:
     - awscli
     - ctags
