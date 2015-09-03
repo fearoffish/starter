@@ -23,7 +23,6 @@
     - pwgen
     - rbenv
     - reattach-to-user-namespace
-    - rsync
     - ruby-build
     - siege
     - ssh-copy-id
