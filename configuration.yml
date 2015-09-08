@@ -31,7 +31,7 @@
   # Set standby delay to 24 hours (default is 1 hour)
   - command: "sudo pmset -a standbydelay 86400"
   # Disable the sound effects on boot
-  - command: "sudo nvram SystemAudioVolume=" ""
+  - command: "sudo nvram SystemAudioVolume=\" \""
   # Disable transparency in the menu bar and elsewhere on Yosemite
   - command: "defaults write com.apple.universalaccess reduceTransparency -bool true"
   # Set sidebar icon size to medium
