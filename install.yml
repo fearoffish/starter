@@ -22,6 +22,7 @@
     - legit
     - libtiff
     - mackup
+    - oniguruma
     - pwgen
     - rbenv
     - reattach-to-user-namespace
